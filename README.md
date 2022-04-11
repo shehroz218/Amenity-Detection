@@ -34,5 +34,7 @@ The uploaded notebook (Image_collection.ipynb) was used to create images using m
 
 ## Results
 
-
+<p align="center">
+<img src="/Metrics/classification_loss.jpg"></img>
+</p>
 
