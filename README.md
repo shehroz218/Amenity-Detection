@@ -32,24 +32,28 @@ The uploaded notebook (Image_collection.ipynb) was used to create images using m
 + Once the model was trained and all the evaluation metrics were stored I used tensorboard to evaluate, change the parameters are retrain once the desired results were acheived.
 + Evaulation metrics were stored after every 100 epochs. Gamma correction was used to account for different lighting in the images.
 
-## Results
-
+# Results
+### Classification Loss
 <p align="center">
 <img src="/Metrics/classification_loss.JPG"></img>
 </p>
 
-<p align="center">
-<img src="/Metrics/learning_rate.JPG"></img>
-</p>
-
+### Localization Loss
 <p align="center">
 <img src="/Metrics/localization_loss.JPG"></img>
 </p>
 
+### Regulartizatio Loss
 <p align="center">
 <img src="/Metrics/regularization_loss.JPG"></img>
 </p>
 
+### Total Loss
 <p align="center">
 <img src="/Metrics/total_loss.JPG"></img>
+</p>
+
+### Learnign rate
+<p align="center">
+<img src="/Metrics/learning_rate.JPG"></img>
 </p>
