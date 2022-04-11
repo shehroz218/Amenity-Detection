@@ -35,6 +35,21 @@ The uploaded notebook (Image_collection.ipynb) was used to create images using m
 ## Results
 
 <p align="center">
-<img src="/Metrics/classification_loss.jpg"></img>
+<img src="/Metrics/classification_loss.JPG"></img>
 </p>
 
+<p align="center">
+<img src="/Metrics/learning_rate.JPG"></img>
+</p>
+
+<p align="center">
+<img src="/Metrics/localization_loss.JPG"></img>
+</p>
+
+<p align="center">
+<img src="/Metrics/regularization_loss.JPG"></img>
+</p>
+
+<p align="center">
+<img src="/Metrics/total_loss.JPG"></img>
+</p>
