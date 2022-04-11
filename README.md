@@ -1,6 +1,12 @@
 ## Hand Gesture Recognition
 This is a project that helps to create an Object detection model from scratch. The Images are captured, Labelled and then used to train a Single Shot detection Model.
 
+<p align="center">
+<img src="/Example.gif"></img>
+</p>
+
+
+
 ### What is a Single Shot Detection Model?
 <p align="center">
 <img src="/ssd_architecture.jpg"></img>
